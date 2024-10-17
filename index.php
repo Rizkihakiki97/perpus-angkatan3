@@ -37,7 +37,7 @@ include 'function/helper.php';
       ?>
     </div>
 
-    <footer class="text-center  p-3">Copyright &copy; 2024 PPKD - Jakarta Pusat.</footer>
+    <!-- <footer class="text-center  p-3">Copyright &copy; 2024 PPKD - Jakarta Pusat.</footer> -->
   </div>
   <!-- <script src="assets/dist/js/jquery-3.7.1.min.js"></script> -->
   <!-- <script src="assets/dist/js/bootstrap.min.js"></script> -->
