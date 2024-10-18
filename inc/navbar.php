@@ -32,6 +32,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="?pg=peminjaman">Peminjaman</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?pg=pengembalian">Pengembalian</a>
+                    </li>
                 </ul>
                 <ul class="navbar-nav ms-auto">
 
